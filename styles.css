@@ -44,5 +44,8 @@
 }
 .player_two audio {
     width: 500px;
-    height: px;
+    height: 40px;
+}
+.p{
+	text-align:left;
 }
