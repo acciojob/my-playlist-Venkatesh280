@@ -7,6 +7,7 @@
 }
 .playlist ul li {
     list-style-type: none;
+	margin:10px 0;
 }
 .playlist ul li a {
     text-decoration-line: none;
